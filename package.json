@@ -1,0 +1,12 @@
+{
+  "name": "toggl-zoho-books-timesheet-converter",
+  "version": "1.0.0",
+  "description": "Convert Toggl timesheet CSV to Zoho Books format",
+  "main": "index.js",
+  "author": "Josh Rickert",
+  "license": "MIT",
+  "dependencies": {
+    "fast-csv": "^2.1.0",
+    "moment": "^2.14.1"
+  }
+}
