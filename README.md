@@ -11,4 +11,5 @@ node index.js Toggl_time_entries_2016-08-01_to_2016-08-31\ 11.59.43\ a.csv > out
 - Download as CSV
 
 # Importing to Zoho Books
-Use suggested field mappings specified in `field-mappings.png`.
+
+![Field mappings](https://raw.githubusercontent.com/joshrickert/toggl-zoho-books-timesheet-converter/master/field-mappings.png)
