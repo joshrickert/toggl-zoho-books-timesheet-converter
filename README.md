@@ -1,13 +1,13 @@
-Convert Toggl timesheet CSV to Zoho Books format
+Convert Toggl timesheet CSV to Zoho Books format on the cli
 
 # Installation
 ```
-npm install toggl-zoho-books-timesheet-converter
+npm install -g toggl-zoho-books-timesheet-converter
 ```
 
 # Usage
 ```
-node index.js Toggl_time_entries_2016-08-01_to_2016-08-31\ 11.59.43\ a.csv > out.csv
+toggl-zoho Toggl_time_entries_2016-08-01_to_2016-08-31\ 11.59.43\ a.csv > out.csv
 ```
 
 # Preparing CSV
