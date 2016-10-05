@@ -6,8 +6,8 @@
   "author": "Josh Rickert",
   "license": "MIT",
   "dependencies": {
-    "fast-csv": "^2.1.0",
-    "moment": "^2.14.1"
+    "fast-csv": "^2.3.0",
+    "moment": "^2.15.1"
   },
   "repository": {
     "type": "git",
